@@ -2,7 +2,13 @@
 
 ###
 
-<br clear="both">
+<p align="left">Olá! Meu nome é Thiago Lima e sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá (FEPI), atualmente no terceiro período. Estou à procura de uma oportunidade de estágio para aplicar e expandir meus conhecimentos. Meu objetivo é me tornar um desenvolvedor backend, e estou focado em aprender e dominar ASP.NET. Além disso, possuo conhecimentos sólidos em programação Python e estou desenvolvendo habilidades básicas em HTML e CSS.<br><br>Tenho grande interesse no desenvolvimento backend e em tecnologias web, e estou sempre aberto a aprender novas tecnologias e me envolver em projetos desafiadores. Vamos conectar e construir algo incrível juntos!</p>
+
+###
+
+<h3 align="left">Connect with me!</h3>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thiago-de-lima-chagas-113085223/" target="_blank">
@@ -16,15 +22,9 @@
 
 ###
 
-<img align="right" height="156" src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif"  />
+<h3 align="left">My Stack</h3>
 
 ###
-
-<p align="left">Olá! Meu nome é Thiago Lima e sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá (FEPI), atualmente no terceiro período. Estou à procura de uma oportunidade de estágio para aplicar e expandir meus conhecimentos. Meu objetivo é me tornar um desenvolvedor backend, e estou focado em aprender e dominar ASP.NET. Além disso, possuo conhecimentos sólidos em programação Python e estou desenvolvendo habilidades básicas em HTML e CSS.<br><br>Tenho grande interesse no desenvolvimento backend e em tecnologias web, e estou sempre aberto a aprender novas tecnologias e me envolver em projetos desafiadores. Vamos conectar e construir algo incrível juntos!</p>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -44,7 +44,11 @@
 
 ###
 
-<div align="center">
+<h3 align="left">GitHub Stats</h3>
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoLimaC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoLimaC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
