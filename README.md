@@ -2,11 +2,7 @@
 
 ###
 
-<h3 align="left">Connect with me!</h3>
-
-###
-
-<br clear="both">
+<h3 align="justify">Connect with me!</h3>
 
 <h4 align="left">👋 Olá! Meu nome é Thiago Lima e sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Itajubá (FEPI), atualmente no terceiro período. Minha paixão está no desenvolvimento backend, com foco especial em ASP.NET e na arquitetura MVC.<br><br>Tenho me dedicado ao aprendizado contínuo, desenvolvendo projetos que exploram soluções escaláveis e bem estruturadas no backend. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos que exijam um olhar estratégico sobre desenvolvimento e arquitetura de software.<br><br>Estou sempre aberto a desafios e oportunidades para crescer na área. Vamos conectar e criar algo incrível juntos!</h4>
 
