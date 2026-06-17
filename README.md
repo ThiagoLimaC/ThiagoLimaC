@@ -98,8 +98,8 @@ Docker containerização, serviços AWS para dados (armazenamento, processamento
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victor884&theme=github_dark" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor884&theme=github_dark" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoLimaC&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoLimaC&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
