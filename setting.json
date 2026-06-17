@@ -1,9 +1,9 @@
 {
   "type": "normal",
-  "backgroundColor": "#05070D",
+  "backgroundColor": "#0d1117",
   "foregroundColor": "#e6edf3",
-  "strongColor": "#ffffff",
-  "weakColor": "#58a6ff",
-  "radarColor": "#3b82f6",
-  "contribColors": ["#0d1117", "#1e3a5f", "#2563eb", "#3b82f6", "#60a5fa"]
+  "strongColor": "#ffedd5",
+  "weakColor": "#fb923c",
+  "radarColor": "#f97316",
+  "contribColors": ["#2a0a05", "#7f1d1d", "#c2410c", "#ea580c", "#e3b505"]
 }
