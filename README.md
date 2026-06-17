@@ -98,7 +98,12 @@ Docker containerização, serviços AWS para dados (armazenamento, processamento
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph" width="100%" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victor884&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor884&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoLimaC&theme=github-compact&hide_border=true&bg_color=0d1117&color=e6edf3&line=58a6ff&point=58a6ff" alt="Gráfico de contribuições" width="100%" />
 </p>
 
 ---
@@ -108,5 +113,5 @@ Docker containerização, serviços AWS para dados (armazenamento, processamento
 </p>
 
 <p align="center">
-  <strong>Modelando o útil. Engenheirando o confiável. Entregando o que importa.</strong>
+  <strong>A jornada é mais importante que o destino</strong>
 </p>
