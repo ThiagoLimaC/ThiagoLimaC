@@ -1,60 +1,112 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3g5bTZieGlhZGVicnd0YnZiYnh5emszZW5rYXRyYTQ2N3ZnaHJubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif"  />
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/thiago-lima-113085223/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <img src="./assets/ banner.png" alt="Thiago Lima profile header" width=100% height=10% />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ThiagoLimaC">
+    <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="thiagolima120603@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/thiago-lima-113085223/">
+    <img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="thiagolima120603@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="mailto:thiagolima120603@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
+</p>
 
-<h1 align="center">👋 Olá! Meu nome é Thiago Lima</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/ANALYTICS_ENGINEER-111827?style=for-the-badge" alt="Analytics Engineer" />
+  <img src="https://img.shields.io/badge/DATA_ENGINEER-111827?style=for-the-badge" alt="Data Engineer" />
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-111827?style=for-the-badge" alt="Data Science" />
+</p>
 
-<h5 align="center">Engenheiro de Dados em formação | Construindo Pipelines e Sistemas de BI</h5>
+---
 
-<h3 align="left">🚀 Sobre Mim</h3>
+## Sobre mim
 
-<p align="left">
-  Sou estudante de Análise e Desenvolvimento de Sistemas (último período) e Engenheiro de Dados em formação focado em construir sistemas de dados escaláveis e bem governados.
-  <br>
-  Vim do mundo de backend (C#/.NET) e fiz a transição para Engenharia de Dados trazendo boas práticas de desenvolvimento de software para o mundo dos dados.</p>
-<h3 align="left">🛠 Linguagens e Bancos de Dados</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-<h3 align="left">🛠 Ferramentas e Framworks</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/matplotlib/matplotlib-original.svg' height="40" alt="matplotlib logo"/>
-  <img width="12" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg' height="40" alt="plotly logo"/>
-  <img width="12" />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg' height="40" alt="skit logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-</div>
-<br>
-<h3 align="left">🎯 Atualmente</h3>
-<p align="left"><strong>🔭 Trabalhando em:</strong> Pipelines de dados em produção<br>
-                <strong>🌱 Aprendendo:</strong> Airflow, dbt, AWS Redshift<br>
-                <strong>📚 Estudando:</strong> Modelagem Dimensional</p>
+<table>
+<tr>
+<td width="34%" valign="top">
+  <img src="./assets/samurai.jpeg" alt="Samurai Champloo vinyl" width="100%" height="315px" />
+</td>
+<td width="50%" valign="top">
+
+Oi, sou Thiago.
+
+Trabalho na intersecção entre engenharia analítica, engenharia de dados e ciência de dados.
+
+Tenho experiência em pipelines ELT e ETL, modelagem dimensional (Kimball), orquestração com Airflow e transformações com dbt — com ênfase em engenharia analítica: construir camadas de dados confiáveis, documentadas e orientadas a perguntas reais de negócio. Em ciência de dados, domino manipulação e análise com Pandas e Polars, visualização com Matplotlib, Seaborn e Plotly e modelagem preditiva com scikit-learn. Trago para os projetos de dados uma visão de engenharia de software: design de APIs, contratos explícitos entre camadas e boas práticas de arquitetura.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Arsenal Técnico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-05070D?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-05070D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Snowflake-05070D?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" /> 
+  <img src="https://img.shields.io/badge/dbt-05070D?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Airflow-05070D?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Polars-05070D?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+  <img src="https://img.shields.io/badge/Streamlit-05070D?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Java-05070D?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Docker-05070D?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-05070D?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<strong>Engenharia de Dados</strong><br />
+Pipelines ELT, arquitetura medallion, modelagem dimensional Kimball, dbt Core, Airflow e Streamlit.
+</td>
+<td width="33%" valign="top">
+<strong>Ciência de Dados</strong><br />
+Manipulação e análise com Pandas e Polars, visualização com Matplotlib, Seaborn e Plotly e modelagem preditiva com scikit-learn.
+</td>
+<td width="33%" valign="top">
+<strong>Infraestrutura & Cloud</strong><br />
+Docker containerização, serviços AWS para dados (armazenamento, processamento e orquestração em nuvem) e deploy de aplicações e bancos na nuvem.
+</td>
+</tr>
+</table>
+
+---
+
+## Conecte-se
+
+<p align="center">
+  <a href="https://github.com/ThiagoLimaC">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-lima-113085223/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thiagolima120603@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+> Pipelines merecem a mesma disciplina de design que sistemas backend: contratos limpos entre camadas, responsabilidade única, tipos que nunca mentem.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/banner2.png" alt="Samurai Champloo vinyl" width="90%" />
+</p>
+
+<p align="center">
+  <strong>Modelando o útil. Engenheirando o confiável. Entregando o que importa.</strong>
+</p>

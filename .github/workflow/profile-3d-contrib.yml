@@ -1,0 +1,37 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "backgroundColor": "#05070D",
+              "foregroundColor": "#e6edf3",
+              "strongForegroundColor": "#ffffff",
+              "skinColor": "#e6edf3",
+              "dotColor": "#58a6ff",
+              "contributionColorArray": ["#0d1117", "#1e3a5f", "#2563eb", "#3b82f6", "#60a5fa"],
+              "angle": -30,
+              "type": "normal"
+            }
+
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "chore: update 3d contribution graph" || exit 0
+          git push
