@@ -23,7 +23,6 @@
 Oi, sou Thiago.
 
 Trabalho na intersecção entre engenharia analítica, engenharia de dados e ciência de dados.
-
 Tenho experiência em pipelines ELT e ETL, modelagem dimensional (Kimball), orquestração com Airflow e transformações com dbt — com ênfase em engenharia analítica: construir camadas de dados confiáveis, documentadas e orientadas a perguntas reais de negócio. 
 Em ciência de dados, domino manipulação e análise com Pandas e Polars, visualização com Matplotlib, Seaborn e Plotly e modelagem preditiva com scikit-learn. 
 Trago para os projetos de dados uma visão de engenharia de software: design de APIs, contratos explícitos entre camadas e boas práticas de arquitetura.
