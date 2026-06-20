@@ -80,7 +80,7 @@ Docker containerização, serviços AWS para dados (armazenamento, processamento
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://looking.cv/thiago-lima">
-    <img src="https://img.shields.io/badge/RESUME-05070D?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
 </p>
 
