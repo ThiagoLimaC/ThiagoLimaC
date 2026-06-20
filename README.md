@@ -79,6 +79,9 @@ Docker containerização, serviços AWS para dados (armazenamento, processamento
   <a href="mailto:thiagolima120603@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://looking.cv/thiago-lima">
+    <img src="https://img.shields.io/badge/RESUME-05070D?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 > Pipelines merecem a mesma disciplina de design que sistemas backend: contratos limpos entre camadas, responsabilidade única, tipos que nunca mentem.
